@@ -17,7 +17,7 @@ in your application configuration. This is an example of configuration:
 
     'components' => [
         'urlManager' => [
-            'class' => 'yeesoft\multilingual\web\MultilingualUrlManager',
+            'class' => 'timeware\multilingual\web\MultilingualUrlManager',
             'showScriptName' => false,
             'enablePrettyUrl' => true,
             'rules' => [
