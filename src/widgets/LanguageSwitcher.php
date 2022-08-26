@@ -55,8 +55,8 @@ class LanguageSwitcher extends \yii\base\Widget
      * @var array default views of switcher. 
      */
     protected $_reservedViews = [
-        'links' => '@vendor/yeesoft/yii2-multilingual/src/views/switcher/links',
-        'pills' => '@vendor/yeesoft/yii2-multilingual/src/views/switcher/pills',
+        'links' => '@vendor/timeware/yii2-multilingual/src/views/switcher/links',
+        'pills' => '@vendor/timeware/yii2-multilingual/src/views/switcher/pills',
     ];
 
     public function init()
