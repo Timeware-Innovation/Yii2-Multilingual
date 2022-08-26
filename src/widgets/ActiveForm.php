@@ -14,7 +14,7 @@ class ActiveForm extends \yii\bootstrap\ActiveForm
     /**
      * @var string the default field class name when calling [[field()]] to create a new field.
      */
-    public $fieldClass = 'timeware\multilingual\widgets\ActiveField';
+    public $fieldClass = 'yeesoft\multilingual\widgets\ActiveField';
 
     /**
      * 
